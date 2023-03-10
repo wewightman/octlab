@@ -1,0 +1,4 @@
+Sample Name: 
+Scan Date : 20190516
+Scan Pattern : H
+Frames per Cut: 4
